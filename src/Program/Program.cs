@@ -1,7 +1,5 @@
 ﻿using System;
-/*
-ejercicio Debug
-*/
+
 namespace UnitTestAndDebug
 {
     class Program
