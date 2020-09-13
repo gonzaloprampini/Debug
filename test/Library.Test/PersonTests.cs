@@ -21,6 +21,7 @@ namespace Tests
             Assert.AreEqual(expected,person.Name,"No se modifico el nombre");
 
         }
+        [Test]
         public void SetNameEmpty() 
         {
             person.Name="";
